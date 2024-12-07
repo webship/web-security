@@ -28,7 +28,7 @@
     "drupal/recaptcha_v3": "~2.0.0",
     "drupal/flood_control": "~3.0",
     "drupal/seckit": "~2.0.0",
-    "drupal/security_review": "~2.0.0",
+    "drupal/security_review": "~3.1.0",
     "drupal/honeypot": "~2.2.0",
     "drupal/antibot": "~2.0.0"
   }
