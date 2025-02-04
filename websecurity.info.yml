@@ -8,3 +8,4 @@ dependencies:
   - honeypot:honeypot
   - antibot:antibot
   - seckit:seckit
+  - klaro:klaro
