@@ -30,6 +30,8 @@
     "drupal/seckit": "~2.0.0",
     "drupal/security_review": "~2.0.0",
     "drupal/honeypot": "~2.2.0",
-    "drupal/antibot": "~2.0.0"
+    "drupal/antibot": "~2.0.0",
+    "drupal/klaro":"~3.0.0"
+
   }
 }
